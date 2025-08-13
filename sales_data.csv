@@ -1,0 +1,31 @@
+Order ID,Region,Category,Product,Sales,Profit
+O001,East,Technology,Laptop,1500,400
+O002,West,Furniture,Office Chair,800,150
+O003,North,Office Supplies,Printer Paper,200,50
+O004,South,Technology,Tablet,1200,300
+O005,East,Furniture,Desk,900,200
+O006,West,Office Supplies,Stapler,90,20
+O007,North,Technology,Smartphone,600,180
+O008,South,Furniture,Bookshelf,700,170
+O009,East,Office Supplies,Pen Set,50,10
+O010,West,Technology,Monitor,400,120
+O011,North,Furniture,File Cabinet,300,80
+O012,South,Office Supplies,Notebook,70,15
+O013,East,Technology,Laptop,1500,450
+O014,West,Furniture,Desk Lamp,200,40
+O015,North,Office Supplies,Calculator,40,8
+O016,South,Technology,Headphones,900,250
+O017,East,Furniture,Conference Table,50,12
+O018,West,Office Supplies,Envelopes,30,5
+O019,North,Technology,Projector,1800,500
+O020,South,Furniture,Reception Sofa,1200,300
+O021,East,Office Supplies,Whiteboard,100,25
+O022,West,Technology,Desktop PC,1400,380
+O023,North,Furniture,Bookshelf,800,210
+O024,South,Office Supplies,Highlighters,60,12
+O025,East,Technology,Router,300,90
+O026,West,Furniture,Chair Mat,250,60
+O027,North,Office Supplies,Scissors,40,7
+O028,South,Technology,Camera,1600,420
+O029,East,Furniture,Standing Desk,1100,280
+O030,West,Office Supplies,Markers,70,18
